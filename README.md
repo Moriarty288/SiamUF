@@ -11,7 +11,7 @@ The main contents of this project can be summarized as follows:
 
 The tracking evaluation based on the first 300 frames:
 
-<center class="half">  <img src="./avgPrecision_smooth.jpg" width="200"/>  <img src="./avgSuccess_smooth.jpg" width="200"/> </center>
+ <img src="./Evaluation.jpg" width="800"/>
 
 
 
