@@ -31,7 +31,7 @@ Note: The test set we use consists of the last 18 weak and small single-target s
 
 ## 4.Model
 
-Download our pretrained model:  code: 
+Download our pretrained model: [model](https://pan.baidu.com/s/18lXDa2ub1eVXRwa4vtiEdQ)  code: 0cgj
 
 ## 5.Results
 
